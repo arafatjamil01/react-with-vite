@@ -31,4 +31,9 @@ If you are developing a production application, we recommend updating the config
 - Starting a project with vite and nodejs
 - Using React with TypeScript
 - Importing css and other components in React
-- Integrating third party libraries with the application using npm, e.g - Bootstrap
+- Integrating third party libraries with the application using npm, e.g - Bootstrap 5
+- Writing event handling functions, inline and using event handler functions, use of MouseEvent
+- Using hooks, e.g - state hook
+- Making components reusable using props, instead of hard coding
+- Creating props using typescript interface
+- Passing function via props, and fetching data from the child to parent component
