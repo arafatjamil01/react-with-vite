@@ -37,3 +37,11 @@ If you are developing a production application, we recommend updating the config
 - Making components reusable using props, instead of hard coding
 - Creating props using typescript interface
 - Passing function via props, and fetching data from the child to parent component
+- Learned the differences between props and state
+- Passing children to a component
+- React Developer Tools browser extension
+- Making prop optional
+- Strict rules for props input
+- Default value for props
+- Creating a click action to show alert
+- Clicking close button to hide alert
